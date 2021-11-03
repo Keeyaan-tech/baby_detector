@@ -3,7 +3,6 @@ objects = [];
 status = "";
 
 function preload() {
-    img = loadImage('dog_cat.jpg');
     song = loadSound("monster_mash.mp3");
 }
 
